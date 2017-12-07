@@ -7,7 +7,7 @@ pages:
     markdown: true
     twig: false
   markdown:
-    extra: true  
+    extra: true
 
 cache:
   enabled: false
@@ -30,7 +30,7 @@ assets:
   js_minify: true
 
 debugger:
-  enabled: false
+  enabled: true
   twig: true
   shutdown:
     close_connection: true
