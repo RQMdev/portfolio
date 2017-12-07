@@ -2,12 +2,9 @@
 title: About
 title2: Contact Details
 address:
-    - line: Jonathan Doe
-    - line: 1600 Amphitheatre Parkway
-    - line: Mountain View, CA 94043 US
-    - line: (123)456-7890
+    - line: Benoit Laurent
 email:
-    - address: anyone@website.com
+    - address: benoit.jacques.felix@gmail.com
 buttons:
     - url: "#"
       icon: download
@@ -15,4 +12,7 @@ buttons:
 ---
 ## About Me
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.
+**Touche-à-tout**, **agile**, je suis à la recherche de nouveaux défis dans la programmation **web** et **mobile**.
+A la suite d'un parcours eccléctique mélant **Design**, **Arts du Spectacle** et **Musique**, j'ai décider de **Sauver le Monde** gràce au **Technologie Web**.
+
+Au sein de la **Code Académie**, J'ai suivi un parcours orienté JavaScript. J'ai pu aborder des technologies de front-end comme **Angular4**, **React**, de back-end avec **Node.js** comme **Express**, **Meteor** ainsi que du **React-Native** pour développer des applications mobiles **Android** et **iOS**.

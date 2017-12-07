@@ -4,14 +4,14 @@ sections:
     - title: Education
       css_class: education
       items:
-        - title: University of Life
-          info: Master in Graphic Design
-          date: April 2007
-          description:  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
-        - title: School of Cool Designers
-          info: B.A. Degree in Graphic Design
-          date: March 2003
-          description: This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat
+        - title: Développeur Web Junior
+          info: Code Académie - Rennes
+          date: Janvier 2018
+          description:  La Code Académie est une formation de développeur web junior intensive en 8 mois. Au programme : un parcours personnalisé pouvant comprendre du HTML, CSS, PHP, JavaScript, Python, Ruby et leurs Frameworks respectif. Un diplôme de Niveau III reconnu par le RNCP peut être passer en fin de formation pour validé nos acquis.
+        - title: Régisseur Son
+          info: STAFF - Nantes
+          date: Juin 2015
+          description: J'ai suivi pendant un an une formation de Régisseur Son au sein de STAFF. J'y ai appris les spécificité du métier de régisseur.
     - title: Work
       css_class: work
       items:
