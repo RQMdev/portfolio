@@ -1,5 +1,5 @@
 ---
-title: À Propos
+title: About
 title2: E-Mail
 address:
     - line: Benoit Laurent

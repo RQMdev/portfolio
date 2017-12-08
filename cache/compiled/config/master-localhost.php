@@ -1,82 +1,66 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1512748335,
-    'checksum' => '9b794fc3ea45affc43681273134d2395',
+    'timestamp' => 1512756678,
+    'checksum' => 'a311baee598c39014c3607d81f449463',
     'files' => [
         'user/config' => [
             'plugins/email' => [
                 'file' => 'user/config/plugins/email.yaml',
-                'modified' => 1509083866
+                'modified' => 1512752159
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
-                'modified' => 1512637309
+                'modified' => 1512752159
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1512652399
+                'modified' => 1512752159
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1512748331
+                'modified' => 1512756675
             ]
         ],
         'system/config' => [
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1509083866
+                'modified' => 1512752158
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1509083866
+                'modified' => 1512752158
             ],
             'streams' => [
                 'file' => 'system/config/streams.yaml',
-                'modified' => 1509083866
+                'modified' => 1512752158
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1509083866
+                'modified' => 1512752158
             ]
         ],
         'user/plugins' => [
-            'plugins/form' => [
-                'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1509083868
-            ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1509083868
-            ],
-            'plugins/problems' => [
-                'file' => 'user/plugins/problems/problems.yaml',
-                'modified' => 1509083868
+                'modified' => 1512752159
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/error.yaml',
-                'modified' => 1509083868
+                'modified' => 1512752159
+            ],
+            'plugins/form' => [
+                'file' => 'user/plugins/form/form.yaml',
+                'modified' => 1512752159
+            ],
+            'plugins/problems' => [
+                'file' => 'user/plugins/problems/problems.yaml',
+                'modified' => 1512752159
             ]
         ]
     ],
     'data' => [
         'plugins' => [
-            'form' => [
-                'enabled' => true,
-                'built_in_css' => true,
-                'refresh_prevention' => false,
-                'files' => [
-                    'multiple' => false,
-                    'limit' => 10,
-                    'destination' => 'self@',
-                    'avoid_overwriting' => false,
-                    'random_name' => false,
-                    'filesize' => 0,
-                    'accept' => [
-                        0 => 'image/*'
-                    ]
-                ]
-            ],
             'email' => [
                 'enabled' => true,
                 'from' => 'your@email.here',
@@ -99,15 +83,31 @@ return [
                 'content_type' => 'text/html',
                 'debug' => false
             ],
-            'problems' => [
-                'enabled' => true,
-                'built_in_css' => true
-            ],
             'error' => [
                 'enabled' => true,
                 'routes' => [
                     404 => '/error'
                 ]
+            ],
+            'form' => [
+                'enabled' => true,
+                'built_in_css' => true,
+                'refresh_prevention' => false,
+                'files' => [
+                    'multiple' => false,
+                    'limit' => 10,
+                    'destination' => 'self@',
+                    'avoid_overwriting' => false,
+                    'random_name' => false,
+                    'filesize' => 0,
+                    'accept' => [
+                        0 => 'image/*'
+                    ]
+                ]
+            ],
+            'problems' => [
+                'enabled' => true,
+                'built_in_css' => true
             ]
         ],
         'media' => [
