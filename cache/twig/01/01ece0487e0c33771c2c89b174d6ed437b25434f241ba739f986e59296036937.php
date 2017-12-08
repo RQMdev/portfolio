@@ -208,7 +208,7 @@ class __TwigTemplate_e7087bd0f0214fc21be35873a90ad040f15615b4674d7b3d670ec55e80a
             if ($this->getAttribute($context["button"], "url", array())) {
                 // line 53
                 echo "              <a href=\"";
-                echo (((is_string($__internal_bfdccb06c5a685c21e15588d553d991ef1d6f9e1390bee9134dcb7294d1bea11 = $this->getAttribute($context["button"], "url", array())) && is_string($__internal_435dddd079785e88a68b98e90b129d881824e39848555ad20b3d55ba4940303e = "http") && ('' === $__internal_435dddd079785e88a68b98e90b129d881824e39848555ad20b3d55ba4940303e || 0 === strpos($__internal_bfdccb06c5a685c21e15588d553d991ef1d6f9e1390bee9134dcb7294d1bea11, $__internal_435dddd079785e88a68b98e90b129d881824e39848555ad20b3d55ba4940303e)))) ? ($this->getAttribute($context["button"], "url", array())) : ($this->env->getExtension('Grav\Common\Twig\TwigExtension')->urlFunc($this->getAttribute($context["button"], "url", array()))));
+                echo (((is_string($__internal_89d9216733df67181c7980ed79a9db35de8413227a9ad225465ac919b6cd4c17 = $this->getAttribute($context["button"], "url", array())) && is_string($__internal_65161ca9aba690920d4dc6c7a01b60b0a7b26065fed0b475d5580201cac505ee = "http") && ('' === $__internal_65161ca9aba690920d4dc6c7a01b60b0a7b26065fed0b475d5580201cac505ee || 0 === strpos($__internal_89d9216733df67181c7980ed79a9db35de8413227a9ad225465ac919b6cd4c17, $__internal_65161ca9aba690920d4dc6c7a01b60b0a7b26065fed0b475d5580201cac505ee)))) ? ($this->getAttribute($context["button"], "url", array())) : ($this->env->getExtension('Grav\Common\Twig\TwigExtension')->urlFunc($this->getAttribute($context["button"], "url", array()))));
                 echo "\">
           ";
             }

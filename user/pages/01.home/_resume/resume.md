@@ -11,36 +11,37 @@ sections:
         - title: Régisseur Son
           info: STAFF - Nantes
           date: Juin 2015
-          description: J'ai suivi pendant un an une formation de Régisseur Son au sein de STAFF. J'y ai appris les spécificité du métier de régisseur.
-    - title: Work
-      css_class: work
-      items:
-        - title: Awesome Design Studio
-          info: Senior UX Designer
-          date: March 2010 - Present
-          description:  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
-        - title: Super Cool Studio
-          info: UX Designer
-          date: March 2007 - February 2010
-          description:  This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat  
-    - title: Skills
+          description: J'ai obtenu un diplôme avec mention de Régisseur Son au sein de l'association STAFF. J'y ai appris les spécificité du métier de régisseur et de celui de sonorisateur de spectacle "live".
+    - title: Languages
       css_class: skill
       items:
         - title:
           info:
           date:
-          description:  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.  
+          description:   
           skills:
-            - name: Photoshop
-              level: 60
-            - name: Illustrator
-              level: 55
-            - name: Wordpress
+            - name: HTML/CSS
+              level: 70
+            - name: JavaScript
               level: 50
-            - name: CSS
-              level: 90
-            - name: Html5
-              level: 80
-            - name: Jquery
-              level: 50            
+            - name: PHP
+              level: 30
+    - title: Technologies
+      css_class: skill
+      items:
+        - title:
+          info:
+          date:
+          description: Par ordre de préférences !
+          skills:
+            - name: React
+              level: 70
+            - name: React-Native
+              level: 60
+            - name: Angular2+
+              level: 50
+            - name: Meteor
+              level: 40
+
+
 ---
