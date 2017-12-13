@@ -7,8 +7,8 @@ form:
     action: /home
     fields:
         - name: name
-          label: Name
-          placeholder: Enter your name
+          label: Nom
+          placeholder: Entrez votre nom
           autocomplete: on
           type: text
           validate:
@@ -16,7 +16,7 @@ form:
 
         - name: email
           label: Email
-          placeholder: Enter your email address
+          placeholder: Entrez votre adresse e-mail
           type: text
           validate:
             rule: email
@@ -25,14 +25,14 @@ form:
         - name: message
           label: Message
           size: long
-          placeholder: Enter your message
+          placeholder: Entrez votre message ici
           type: textarea
           validate:
             required: true
 
     buttons:
         - type: submit
-          value: Submit
+          value: Envoyer
           class: submit
 
     process:
@@ -48,7 +48,7 @@ form:
             dateformat: Ymd-His-u
             extension: txt
             body: "{% include 'forms/data.txt.twig' %}"
-        - message: Thank you for your feedback!
+        - message: Merci, je vous répondrai au plus vite !
         - display: thankyou
 
 onpage_menu: true

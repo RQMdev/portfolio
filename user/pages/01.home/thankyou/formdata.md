@@ -1,5 +1,5 @@
 ---
-title: Thank you !
+title: Merci !
 ---
 
-Your email was sent. Thank you ! 
+Votre e-mail à été envoyé, merci !

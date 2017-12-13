@@ -1,61 +1,61 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1512756678,
-    'checksum' => 'a311baee598c39014c3607d81f449463',
+    'timestamp' => 1513192136,
+    'checksum' => 'c8647fd83a4330b024b6641cc13694d9',
     'files' => [
         'user/config' => [
             'plugins/email' => [
                 'file' => 'user/config/plugins/email.yaml',
-                'modified' => 1512752159
+                'modified' => 1512679524
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
-                'modified' => 1512752159
+                'modified' => 1512679524
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1512752159
+                'modified' => 1512679524
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1512756675
+                'modified' => 1513192132
             ]
         ],
         'system/config' => [
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1512752158
+                'modified' => 1512679523
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1512752158
+                'modified' => 1512679523
             ],
             'streams' => [
                 'file' => 'system/config/streams.yaml',
-                'modified' => 1512752158
+                'modified' => 1512679523
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1512752158
+                'modified' => 1512679523
             ]
         ],
         'user/plugins' => [
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1512752159
+                'modified' => 1512679524
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/error.yaml',
-                'modified' => 1512752159
+                'modified' => 1512679524
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1512752159
+                'modified' => 1512679524
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/problems.yaml',
-                'modified' => 1512752159
+                'modified' => 1512679524
             ]
         ]
     ],

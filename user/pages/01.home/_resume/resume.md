@@ -1,7 +1,7 @@
 ---
 title: Resume
 sections:
-    - title: Education
+    - title: Formation
       css_class: education
       items:
         - title: Développeur Web Junior
@@ -11,7 +11,7 @@ sections:
         - title: Régisseur Son
           info: STAFF - Nantes
           date: Juin 2015
-          description: J'ai obtenu un diplôme avec mention de Régisseur Son au sein de l'association STAFF. J'y ai appris les spécificité du métier de régisseur et de celui de sonorisateur de spectacle "live".
+          description: J'ai obtenu un diplôme de Régisseur Son, de Niveau III avec mention Très Bien. J'y ai appris les spécificités du métier de régisseur et de celui de sonorisateur de concerts et de spectacles vivants. J'y ai dévelopé des compétences de gestion et d'organisation d'une équipe, le relationnel avec les artistes.
     - title: Languages
       css_class: skill
       items:
@@ -21,9 +21,9 @@ sections:
           description:   
           skills:
             - name: HTML/CSS
-              level: 70
+              level: 60
             - name: JavaScript
-              level: 50
+              level: 45
             - name: PHP
               level: 30
     - title: Technologies
@@ -32,16 +32,16 @@ sections:
         - title:
           info:
           date:
-          description: Par ordre de préférences !
+          description:
           skills:
             - name: React
-              level: 70
-            - name: React-Native
               level: 60
-            - name: Angular2+
+            - name: React-Native
               level: 50
-            - name: Meteor
+            - name: Angular2+
               level: 40
+            - name: Meteor
+              level: 30
 
 
 ---
